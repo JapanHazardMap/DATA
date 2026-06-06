@@ -1,1 +1,5 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
+# A31aRegions の巨大 ZIP だけ LFS を使う
+GIS/MLITKSJ/A31aRegions/*.zip filter=lfs diff=lfs merge=lfs -text
+
+# P20 ZIP は LFS を使わない（通常 Git）
+GIS/MLITKSJ/P20/*.zip -filter -diff -merge text
