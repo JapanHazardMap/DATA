@@ -1,0 +1,26 @@
+{
+  "zip": "A49-22_23_GML.zip",
+  "base": "A49-22_23_GML_89bca6e8_A49-22_23_三河湾・伊勢湾",
+  "geometry": "Polygon",
+  "features": 258376,
+  "bbox": [
+    136.67391362201624,
+    34.57871387744365,
+    137.43273182751204,
+    35.33879635886501
+  ],
+  "epsg": null,
+  "shp": {
+    "path": "output_7z\\A49-22_23_GML_shp.7z",
+    "size": 39729091
+  },
+  "geojson": {
+    "path": "output_7z\\A49-22_23_GML_geojson.7z",
+    "size": 43765153
+  },
+  "topojson": {
+    "path": "output_7z\\A49-22_23_GML_topojson.7z",
+    "size": 7046231
+  },
+  "generated": "2026-06-12T05:05:17.357Z"
+}

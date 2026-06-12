@@ -1,0 +1,26 @@
+{
+  "zip": "A56-25_26_GML.zip",
+  "base": "A56-25_26_GML_5058f1af_A56-25_26",
+  "geometry": "Polygon",
+  "features": 488,
+  "bbox": [
+    134.85372666699234,
+    34.705957835089116,
+    136.0554763938986,
+    35.779258252003984
+  ],
+  "epsg": null,
+  "shp": {
+    "path": "output_7z\\A56-25_26_GML_shp.7z",
+    "size": 2163662
+  },
+  "geojson": {
+    "path": "output_7z\\A56-25_26_GML_geojson.7z",
+    "size": 2337106
+  },
+  "topojson": {
+    "path": "output_7z\\A56-25_26_GML_topojson.7z",
+    "size": 578726
+  },
+  "generated": "2026-06-12T06:25:46.105Z"
+}

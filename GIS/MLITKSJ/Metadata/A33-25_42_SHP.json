@@ -1,0 +1,26 @@
+{
+  "zip": "A33-25_42_SHP.zip",
+  "base": "A33-25_42_SHP_5058f1af_A33-25_42Polygon",
+  "geometry": "Polygon",
+  "features": 77909,
+  "bbox": [
+    128.609717670242,
+    32.5585213550443,
+    130.374278115765,
+    34.6991406946161
+  ],
+  "epsg": null,
+  "shp": {
+    "path": "output_7z\\A33-25_42_SHP_shp.7z",
+    "size": 22827431
+  },
+  "geojson": {
+    "path": "output_7z\\A33-25_42_SHP_geojson.7z",
+    "size": 22221091
+  },
+  "topojson": {
+    "path": "output_7z\\A33-25_42_SHP_topojson.7z",
+    "size": 6286768
+  },
+  "generated": "2026-06-12T03:18:16.011Z"
+}

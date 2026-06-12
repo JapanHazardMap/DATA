@@ -1,0 +1,26 @@
+{
+  "zip": "P20-12_33_GML.zip",
+  "base": "P20-12_33_GML_5058f1af_P20-12_33",
+  "geometry": "Point",
+  "features": 2854,
+  "bbox": [
+    133.302753,
+    34.303409,
+    134.390125121,
+    35.3208791808
+  ],
+  "epsg": null,
+  "shp": {
+    "path": "output_7z\\P20-12_33_GML_shp.7z",
+    "size": 124011
+  },
+  "geojson": {
+    "path": "output_7z\\P20-12_33_GML_geojson.7z",
+    "size": 101904
+  },
+  "topojson": {
+    "path": "output_7z\\P20-12_33_GML_topojson.7z",
+    "size": 94791
+  },
+  "generated": "2026-06-12T06:56:51.426Z"
+}

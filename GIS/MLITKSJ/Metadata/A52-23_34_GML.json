@@ -1,0 +1,26 @@
+{
+  "zip": "A52-23_34_GML.zip",
+  "base": "A52-23_34_GML_78c15523_A52-23_34line",
+  "geometry": "LineString",
+  "features": 150,
+  "bbox": [
+    132.16572463373194,
+    34.23565873765774,
+    133.29989478469136,
+    35.014121485286196
+  ],
+  "epsg": null,
+  "shp": {
+    "path": "output_7z\\A52-23_34_GML_shp.7z",
+    "size": 4220112
+  },
+  "geojson": {
+    "path": "output_7z\\A52-23_34_GML_geojson.7z",
+    "size": 4794565
+  },
+  "topojson": {
+    "path": "output_7z\\A52-23_34_GML_topojson.7z",
+    "size": 1101013
+  },
+  "generated": "2026-06-12T05:27:05.282Z"
+}

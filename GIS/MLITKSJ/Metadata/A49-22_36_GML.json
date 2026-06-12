@@ -1,0 +1,26 @@
+{
+  "zip": "A49-22_36_GML.zip",
+  "base": "A49-22_36_GML_01fa48c7_A49-22_36_海部灘",
+  "geometry": "Polygon",
+  "features": 12944,
+  "bbox": [
+    134.29237499999996,
+    33.53949999999996,
+    134.73612499999996,
+    33.82816669999998
+  ],
+  "epsg": null,
+  "shp": {
+    "path": "output_7z\\A49-22_36_GML_shp.7z",
+    "size": 2858668
+  },
+  "geojson": {
+    "path": "output_7z\\A49-22_36_GML_geojson.7z",
+    "size": 3512361
+  },
+  "topojson": {
+    "path": "output_7z\\A49-22_36_GML_topojson.7z",
+    "size": 1772181
+  },
+  "generated": "2026-06-12T05:06:22.904Z"
+}
